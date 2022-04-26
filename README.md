@@ -92,6 +92,8 @@ If you have any questions about the solutions you can find here, feel free to co
  * Handy Table
     * [Thinking Techniques](https://sites.google.com/site/mostafasibrahim/programming-competitions/thinking-techniques) as follows:
 
+<br>
+
 | n | Complexity | Possible Algorithms & Techniques |
 | - | - | - |
 | 10<sup>18</sup>+ | _O(1)_ | Math |
@@ -106,6 +108,8 @@ If you have any questions about the solutions you can find here, feel free to co
 | 40 | _O(n×2<sup>n/2</sup>)_ | 	Meet in the Middle |
 | 20 | _O(n×2<sup>n</sup>)_ | Backtracking / Generating 2<sup>n</sup> Subsets / Bitmask Technique |
 | 11 | _O(n!)_ | Factorial / Permutation / Combination Algorithm |
+
+<br>
 
 ## Bit Manipulation
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
