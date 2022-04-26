@@ -1,4 +1,4 @@
-## Topic wise Practice Problems for Coding Interview
+# Topic wise Practice Problems for Coding Interview
 
 | Topic Name | Leetcode Link |
 | :------: | :------: |
@@ -20,7 +20,7 @@
 | Binary Search | https://leetcode.com/list/9ixr4vaj |
 
 
-## Difficulty wise Practice Problems for Coding Interview
+# Difficulty wise Practice Problems for Coding Interview
 
 | Difficulty Level | Leetcode Link |
 | :------: | :------: |
